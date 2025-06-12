@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/dhl1031/dhl1031/assets/141328665/65e03586-eda8-4ea0-99a0-618466a0e65a.gif" ><br><br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhl1031%2Fdhl1031&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=red&label=hits&size=small)](https://myhits.vercel.app)
 <br><br>
 
 </div>
