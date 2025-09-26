@@ -31,10 +31,11 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"> &nbsp; <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff"> &nbsp;
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"> &nbsp; <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff"> <br>
 <img src="https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react" /> &nbsp; <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=fff"> &nbsp; <img src="https://img.shields.io/badge/EXPO-000?style=for-the-badge&logo=expo&logoColor=fff"> &nbsp; <img src="https://img.shields.io/badge/NODE.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=fff"><br>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff"> &nbsp; <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=fff"> &nbsp; <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=fff"> &nbsp;
-<img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=fff"> &nbsp; <img src="https://img.shields.io/badge/visualstudio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff"> &nbsp; <img src="https://img.shields.io/badge/git hub-181717?style=for-the-badge&logo=github&logoColor=fff"> &nbsp; <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff">
+<img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=fff"> <br>
+<img src="https://img.shields.io/badge/visualstudio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff"> &nbsp; <img src="https://img.shields.io/badge/git hub-181717?style=for-the-badge&logo=github&logoColor=fff"> &nbsp; <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff">
 </div>
 
 <br><br>
